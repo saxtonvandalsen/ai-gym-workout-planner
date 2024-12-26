@@ -1,0 +1,8 @@
+
+
+namespace TrainingPlanLibrary {
+
+    class TrainingPlan {
+
+    };
+}
