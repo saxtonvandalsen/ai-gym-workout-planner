@@ -1,0 +1,8 @@
+
+
+namespace AIPlannerLibrary {
+
+    class AIPlanner {
+
+    };
+}
